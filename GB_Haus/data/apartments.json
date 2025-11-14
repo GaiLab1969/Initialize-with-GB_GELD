@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "number": 1,
+    "full_name": "Иванов И.",
+    "phone": "987454545"
+  },
+  {
+    "id": 1,
+    "number": 2,
+    "full_name": "Петров П.",
+    "phone": "938767676"
+  },
+  {
+    "id": 2,
+    "number": 3,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 3,
+    "number": 4,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 4,
+    "number": 5,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 5,
+    "number": 6,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 6,
+    "number": 7,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 7,
+    "number": 8,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 8,
+    "number": 9,
+    "full_name": "",
+    "phone": ""
+  },
+  {
+    "id": 9,
+    "number": 10,
+    "full_name": "",
+    "phone": ""
+  }
+]

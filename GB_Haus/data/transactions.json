@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "apartment_id": 0,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.804760",
+    "updated_at": "2025-11-14T22:31:20.712142"
+  },
+  {
+    "id": 2,
+    "apartment_id": 1,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.805767",
+    "updated_at": "2025-11-14T22:31:20.715245"
+  },
+  {
+    "id": 3,
+    "apartment_id": 2,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.807148",
+    "updated_at": "2025-11-14T22:31:20.717262"
+  },
+  {
+    "id": 4,
+    "apartment_id": 3,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.809175",
+    "updated_at": "2025-11-14T22:31:20.720331"
+  },
+  {
+    "id": 5,
+    "apartment_id": 4,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.811219",
+    "updated_at": "2025-11-14T22:31:20.723695"
+  },
+  {
+    "id": 6,
+    "apartment_id": 5,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.813238",
+    "updated_at": "2025-11-14T22:31:20.725956"
+  },
+  {
+    "id": 7,
+    "apartment_id": 6,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.815306",
+    "updated_at": "2025-11-14T22:31:20.729209"
+  },
+  {
+    "id": 8,
+    "apartment_id": 7,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.816381",
+    "updated_at": "2025-11-14T22:31:20.731289"
+  },
+  {
+    "id": 9,
+    "apartment_id": 8,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.818402",
+    "updated_at": "2025-11-14T22:31:20.733470"
+  },
+  {
+    "id": 10,
+    "apartment_id": 9,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Свет ноябрь 2025",
+    "created_at": "2025-11-14T22:28:07.820589",
+    "updated_at": "2025-11-14T22:31:20.735490"
+  },
+  {
+    "id": 11,
+    "apartment_id": 0,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.164134"
+  },
+  {
+    "id": 12,
+    "apartment_id": 1,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.166402"
+  },
+  {
+    "id": 13,
+    "apartment_id": 2,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.168830"
+  },
+  {
+    "id": 14,
+    "apartment_id": 3,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.171228"
+  },
+  {
+    "id": 15,
+    "apartment_id": 4,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.174465"
+  },
+  {
+    "id": 16,
+    "apartment_id": 5,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.177560"
+  },
+  {
+    "id": 17,
+    "apartment_id": 6,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.179594"
+  },
+  {
+    "id": 18,
+    "apartment_id": 7,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.181624"
+  },
+  {
+    "id": 19,
+    "apartment_id": 8,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.184607"
+  },
+  {
+    "id": 20,
+    "apartment_id": 9,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "debt",
+    "user_id": 1,
+    "notes": "Начисление: Лифт ноябрь 2025",
+    "created_at": "2025-11-14T22:28:22.187016"
+  },
+  {
+    "id": 21,
+    "apartment_id": 0,
+    "category_id": 1,
+    "amount": 60.0,
+    "type": "payment",
+    "user_id": 1,
+    "notes": "",
+    "created_at": "2025-11-14T22:30:21.734861"
+  },
+  {
+    "id": 22,
+    "apartment_id": 0,
+    "category_id": 2,
+    "amount": 50.0,
+    "type": "payment",
+    "user_id": 1,
+    "notes": "",
+    "created_at": "2025-11-14T22:30:41.263697"
+  }
+]
